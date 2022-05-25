@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.547
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method overloding Parameter diffrent", "Method overloding Parameter diffrent\Method overloding Parameter diffrent.csproj", "{6B003AF8-E3D8-42D8-8BDD-F00E5A54ECBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B003AF8-E3D8-42D8-8BDD-F00E5A54ECBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B003AF8-E3D8-42D8-8BDD-F00E5A54ECBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B003AF8-E3D8-42D8-8BDD-F00E5A54ECBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B003AF8-E3D8-42D8-8BDD-F00E5A54ECBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {464D762F-3096-4BA9-9FDC-4778E81D0684}
+	EndGlobalSection
+EndGlobal
